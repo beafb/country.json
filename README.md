@@ -1,6 +1,8 @@
 # country.json
 A list of country with Country code, Country name, Country native name, Language code, Language name, currency, phone prefix, capital
 with 248 records
+
+```
 [{
     "country_code": "AD",
     "country_name": "Andorra",
@@ -23,3 +25,4 @@ with 248 records
     "capital": "Abu Dhabi",
     "currency": "AED"
   }]
+```
